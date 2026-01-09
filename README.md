@@ -19,5 +19,15 @@ H&M Group is a family of brands and businesses with 53 online markets and approx
 ![](./assets/framework.png)
 
 
+## Experiment Results
 
+### 1. How interaction modeling with machine learning drives the results?
+![](./assets/model_performance.png)
 
+### 2. What feature is importance for creating the bundles?
+![](./assets/feature_imp.png)
+
+### 3. How relevant is the generated bundles?
+![](./assets/ouptut.png)
+
+### 4. Can the bundle recommendation actually increase revenue or AOV?
